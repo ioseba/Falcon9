@@ -1,0 +1,291 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time
+195,CCSFS,,0,SSO,,"Success
+",F9 B5♺B1060.15,Success,3 January 2023,14:56
+196,CCSFS,OneWeb,0,Polar,OneWeb,"Success
+",F9 B5♺,Success,10 January 2023,04:50
+197,CCSFS,USA-343,0,MEO,USSF,"Success
+",F9 B5♺,Success,18 January 2023,12:24
+198,VSFB,Starlink Group 2–4,0,LEO,SpaceX,"Success
+",F9 B5,Success,19 January 2023,15:43
+199,CCSFS,Starlink Group 5-2,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,26 January 2023,09:32
+200,VSFB,Starlink Group 2–6,0,LEO,SpaceX,"Success
+",F9 B5♺B1071.7,Success,31 January 2023,16:15
+201,KSC,Starlink Group 5-3,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,2 February 2023,07:58
+202,CCSFS,Amazonas Nexus,0,GTO,Hispasat,"Success
+",F9 B5♺B1073.6,Success,7 February 2023,01:32
+203,CCSFS,Starlink Group 5-4,0,LEO,SpaceX,"Success
+",F9 B5♺B1062.12,Success,12 February 2023,05:10
+204,VSFB,Starlink Group 2–5,0,LEO,SpaceX,"Success
+",F9 B5♺B1063.9,Success,17 February 2023,19:12
+205,CCSFS,Inmarsat-6 F2,0,GTO,Inmarsat,"Success
+",F9 B5♺B1077.3,Success,18 February 2023,03:59
+206,CCSFS,Starlink Group 6-1,0,LEO,SpaceX,"Success
+",F9 B5♺B1076.3,Success,27 February 2023,23:13
+207,KSC,Crew-6,0,LEO,NASA,"Success
+",F9 B5,Success,2 March 2023,05:34
+208,VSFB,Starlink Group 2–7,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,3 March 2023,18:38
+209,CCSFS,OneWeb #17,0,LEO,OneWeb,"Success
+",F9 B5♺,Success,9 March 2023,19:13
+210,KSC,SpaceX CRS-27,0,LEO,NASA,"Success
+",F9 B5♺B1073.7,Success,15 March 2023,00:30
+211,VSFB,Starlink Group 2–8,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,17 March 2023,19:26
+212,CCSFS,SES-18 and SES-19,0,GTO,SES,"Success
+",F9 B5♺,Success,17 March 2023,23:38
+213,CCSFS,Starlink Group 5-5,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,24 March 2023,15:43
+214,CCSFS,Starlink Group 5–10,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,29 March 2023,20:01
+215,VSFB,Transport and Tracking Layer (Tranche 0A),0,LEO,SDA,"Success
+",F9 B5♺,Success,2 April 2023,14:29
+216,CCSFS,Intelsat 40e,0,GTO,Intelsat,"Success
+",F9 B5♺,Success,7 April 2023,04:30
+217,VSFB,Transporter-7: (51 payloads Smallsat Rideshare),0,SSO,,"Success
+",F9 B5♺,Success,15 April 2023,06:47
+218,CCSFS,Starlink Group 6-2,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,19 April 2023,14:31
+219,VSFB,Starlink Group 3–5,0,SSO,SpaceX,"Success
+",F9 B5♺,Success,27 April 2023,13:40
+220,CCSFS,O3b mPOWER,0,MEO,SES,"Success
+",F9 B5♺B1078.2,Success,28 April 2023,22:12
+221,CCSFS,Starlink Group 5–6,0,LEO,SpaceX,"Success
+",F9 B5♺B1069.7,Success,4 May 2023,07:31
+222,VSFB,Starlink Group 2–9,0,LEO,SpaceX,"Success
+",F9 B5♺B1075.3,Success,10 May 2023,20:09
+223,CCSFS,Starlink Group 5–9,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,14 May 2023,05:03
+224,CCSFS,Starlink Group 6-3,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,19 May 2023,06:19
+225,VSFB,Iridium-NEXT,0,Polar,Iridium,"Success
+",F9 B5♺,Success,20 May 2023,13:16
+226,KSC,Ax-2,0,LEO,Axiom Space,"Success
+",F9 B5,Success,21 May 2023,21:37
+227,CCSFS,ArabSat 7B,0,GTO,Arabsat,"Success
+",F9 B5♺,Success,27 May 2023,04:30
+228,VSFB,Starlink Group 2–10,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,31 May 2023,06:02
+229,CCSFS,Starlink Group 6-4,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,4 June 2023,12:20
+230,KSC,SpaceX CRS-28,0,LEO,NASA,"Success
+",F9 B5♺B1077.5,Success,5 June 2023,15:47
+231,CCSFS,Starlink Group 5–11,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,12 June 2023,07:10
+232,VSFB,,0,SSO,,"Success
+",F9 B5♺,Success,12 June 2023,21:35
+233,CCSFS,SATRIA,0,GTO,PT Pasifik Satelit Nusantara,"Success
+",F9 B5♺B1067.12,Success,18 June 2023,22:21
+234,VSFB,Starlink Group 5–7,0,LEO,SpaceX,"Success
+",F9 B5♺B1075.4,Success,22 June 2023,07:19
+235,CCSFS,Starlink Group 5–12,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,23 June 2023,15:35
+236,CCSFS,Euclid,0,,ESA,"Success
+",F9 B5♺,Success,1 July 2023,15:12
+237,VSFB,Starlink Group 5–13,0,LEO,SpaceX,"Success
+",F9 B5♺B1063.12,Success,7 July 2023,19:29
+238,CCSFS,Starlink Group 6-5,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,10 July 2023,03:58
+239,CCSFS,Starlink Group 5–15,0,LEO,SpaceX,"Success
+",F9 B5♺B1060.16,Success,16 July 2023,03:50
+240,VSFB,Starlink Group 6–15,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,20 July 2023,04:09
+241,CCSFS,Starlink Group 6-6,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,24 July 2023,00:50
+242,CCSFS,Starlink Group 6–7,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,28 July 2023,04:01
+243,CCSFS,Galaxy 37,0,GTO,Intelsat,"Success
+",F9 B5♺,Success,3 August 2023,05:00
+244,CCSFS,Starlink Group 6–8,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,7 August 2023,02:41
+245,VSFB,Starlink Group 6–20,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,8 August 2023,03:57
+246,CCSFS,Starlink Group 6–9,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,11 August 2023,05:17
+247,CCSFS,Starlink Group 6–10,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,17 August 2023,03:36
+248,VSFB,Starlink Group 7-1,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,22 August 2023,09:37
+249,KSC,Crew-7,0,LEO,NASA,"Success
+",F9 B5B1081.1,Success,26 August 2023,07:27
+250,CCSFS,Starlink Group 6–11,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,27 August 2023,01:05
+251,CCSFS,Starlink Group 6–13,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,1 September 2023,02:21
+252,VSFB,Transport and Tracking Layer (Tranche 0B),0,LEO,SDA,"Success
+",F9 B5♺,Success,2 September 2023,[188]
+253,KSC,Starlink Group 6–12,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,4 September 2023,02:47
+254,CCSFS,Starlink Group 6–14,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,9 September 2023,03:12
+255,VSFB,Starlink Group 7-2,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,12 September 2023,06:57
+256,CCSFS,Starlink Group 6–16,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,16 September 2023,03:38
+257,CCSFS,Starlink Group 6–17,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,20 September 2023,03:38
+258,CCSFS,Starlink Group 6–18,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,24 September 2023,03:38
+259,VSFB,Starlink Group 7-3,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,25 September 2023,08:48
+260,CCSFS,Starlink Group 6–19,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,30 September 2023,02:00
+261,CCSFS,Starlink Group 6–21,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,5 October 2023,05:36
+262,VSFB,Starlink Group 7-4,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,9 October 2023,07:23
+263,CCSFS,Starlink Group 6–22,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,13 October 2023,23:01
+264,CCSFS,Starlink Group 6–23,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,18 October 2023,00:39
+265,VSFB,Starlink Group 7-5,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,21 October 2023,08:23
+266,CCSFS,Starlink Group 6–24,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,22 October 2023,02:17
+267,VSFB,Starlink Group 7-6,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,29 October 2023,09:00
+268,CCSFS,Starlink Group 6–25,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,30 October 2023,23:20
+269,CCSFS,Starlink Group 6–26,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,4 November 2023,00:37
+270,CCSFS,Starlink Group 6–27,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,8 November 2023,05:05
+271,KSC,SpaceX CRS-29,0,LEO,NASA,"Success
+",F9 B5♺,Success,10 November 2023,01:28
+272,VSFB,,0,SSO,,"Success
+",F9 B5♺,Success,11 November 2023,18:49
+273,CCSFS,O3b mPOWER,0,MEO,SES,"Success
+",F9 B5♺,Success,12 November 2023,21:08
+274,CCSFS,Starlink Group 6–28,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,18 November 2023,05:05
+275,VSFB,Starlink Group 7-7,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,20 November 2023,10:30
+276,CCSFS,Starlink Group 6–29,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,22 November 2023,07:47
+277,CCSFS,Starlink Group 6–30,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,28 November 2023,04:20
+278,VSFB,[228],0,SSO,Republic of Korea Armed Forces,"Success
+",F9 B5♺,Success,1 December 2023,18:19
+279,CCSFS,Starlink Group 6–31,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,3 December 2023,04:00
+280,CCSFS,Starlink Group 6–33,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,7 December 2023,05:07
+281,VSFB,Starlink Group 7–8,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,8 December 2023,08:03
+282,CCSFS,Starlink Group 6–34,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,19 December 2023,04:01
+283,CCSFS,Starlink Group 6–32,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,23 December 2023,05:33
+284,VSFB,SARah,0,SSO,German Intelligence Service,"Success
+",F9 B5♺,Success,24 December 2023,13:11
+285,CCSFS,Starlink Group 6–36,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,29 December 2023,04:01
+286,VSFB,Starlink Group 7–9,0,LEO,SpaceX,"Success
+",F9 B5,Success,3 January 2024,03:44
+287,CCSFS,Ovzon-3,0,GTO,Ovzon,"Success
+",F9 B5♺,Success,3 January 2024,23:04
+288,CCSFS,Starlink Group 6–35,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,7 January 2024,22:35
+289,VSFB,Starlink Group 7–10,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,14 January 2024,08:59
+290,CCSFS,Starlink Group 6–37,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,15 January 2024,01:52
+291,KSC,Ax-3,0,LEO,Axiom Space,"Success
+",F9 B5♺,Success,18 January 2024,21:49
+292,VSFB,Starlink Group 7–11,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,24 January 2024,00:35
+293,KSC,Starlink Group 6–38,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,29 January 2024,01:10
+294,VSFB,Starlink Group 7–12,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,29 January 2024,05:57
+295,CCSFS,CRS NG-20,0,LEO,Northrop Grumman,"Success
+",F9 B5♺,Success,30 January 2024,17:07
+296,CCSFS,PACE,0,SSO,NASA,"Success
+",F9 B5♺,Success,8 February 2024,06:33
+297,VSFB,Starlink Group 7–13,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,10 February 2024,00:34
+298,CCSFS,SDA,0,LEO,USSF,"Success
+",F9 B5♺,Success,14 February 2024,22:30
+299,KSC,IM-1,0,TLI,NASA,"Success
+",F9 B5♺,Success,15 February 2024,06:05
+300,VSFB,Starlink Group 7–14,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,15 February 2024,21:34
+301,CCSFS,Merah Putih 2 / Telkomsat HTS 113BT,0,GTO,Telkom Indonesia,"Success
+",F9 B5♺,Success,20 February 2024,20:11
+302,VSFB,Starlink Group 7–15,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,23 February 2024,04:11
+303,CCSFS,Starlink Group 6–39,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,25 February 2024,22:06
+304,CCSFS,Starlink Group 6–40,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,29 February 2024,15:30
+305,KSC,Crew-8,0,LEO,NASA,"Success
+",F9 B5,Success,4 March 2024,03:53
+306,VSFB,,0,SSO,,"Success
+",F9 B5♺,Success,4 March 2024,22:05
+307,CCSFS,Starlink Group 6–41,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,4 March 2024,23:56
+308,CCSFS,Starlink Group 6–43,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,10 March 2024,23:05
+309,VSFB,Starlink Group 7–17,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,11 March 2024,04:09
+310,KSC,Starlink Group 6–44,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,16 March 2024,00:21
+311,VSFB,Starlink Group 7–16,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,19 March 2024,02:28
+312,CCSFS,SpaceX CRS-30,0,LEO,NASA,"Success
+",F9 B5♺,Success,21 March 2024,20:55
+313,KSC,Starlink Group 6–42,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,24 March 2024,03:09
+314,CCSFS,Starlink Group 6–46,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,25 March 2024,23:42
+315,KSC,,0,GTO,Eutelsat,"Success
+",F9 B5♺,Success,30 March 2024,21:52
+316,CCSFS,Starlink Group 6–45,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,31 March 2024,01:30
+317,VSFB,Starlink Group 7–18,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,2 April 2024,02:30
+318,CCSFS,Starlink Group 6–47,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,5 April 2024,09:12
+319,VSFB,Starlink Group 8-1,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,7 April 2024,02:25
+320,KSC,Bandwagon-1,0,LEO,,"Success
+",F9 B5♺,Success,7 April 2024,23:16
+321,CCSFS,Starlink Group 6–48,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,10 April 2024,05:40
+322,VSFB,WSF-M 1,0,SSO,USSF,"Success
+",F9 B5♺,Success,11 April 2024,14:25
+323,CCSFS,Starlink Group 6–49,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,13 April 2024,01:40
+324,KSC,Starlink Group 6–51,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,17 April 2024,21:26
+325,CCSFS,Starlink Group 6–52,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,18 April 2024,22:40
+326,CCSFS,Starlink Group 6–53,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,23 April 2024,22:17
+327,KSC,Galileo,0,MEO,ESA,"Success
+",F9 B5♺,No attempt,28 April 2024,00:34
+328,CCSFS,Starlink Group 6–54,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,28 April 2024,22:08
+329,VSFB,WorldView Legion 1 & 2,0,SSO,Maxar Technologies,"Success
+",F9 B5♺,Success,2 May 2024,18:36
+330,CCSFS,Starlink Group 6–55,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,3 May 2024,02:37
+331,CCSFS,Starlink Group 6–57,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,6 May 2024,18:14
+332,KSC,Starlink Group 6–56,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,8 May 2024,18:42
+333,VSFB,Starlink Group 8-2,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,10 May 2024,04:30
+334,CCSFS,Starlink Group 6–58,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,13 May 2024,00:53
+335,VSFB,Starlink Group 8-7,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,14 May 2024,18:39
+336,CCSFS,Starlink Group 6–59,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,18 May 2024,00:32
+337,VSFB,Starshield,0,LEO,Northrop Grumman,"Success
+",F9 B5♺,Success,22 May 2024,08:00
+338,CCSFS,Starlink Group 6–62,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,23 May 2024,02:35
+339,KSC,Starlink Group 6–63,0,LEO,SpaceX,"Success
+",F9 B5♺,Success,24 May 2024,02:45
